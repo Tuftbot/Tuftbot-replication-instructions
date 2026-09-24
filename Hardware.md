@@ -62,8 +62,8 @@ We also tested a cloth made of wool acquired second hand to produce a monomeric 
 
 ### Sustainable adhesive options
 
-Most common adhesive used for backing the tufted pieces are PVC based. We searched for sustainable biobased alternatives available on the market and we identified natural latex as the most sustainable option.
-https://tuftbox.co.uk/blogs/guides/synthetic-vs-natural-latex-rug-tufting-glue
+Most common adhesive used for backing the tufted pieces are PVC based. We searched for sustainable biobased alternatives available on the market and we identified [natural latex](https://tuftbox.co.uk/blogs/guides/synthetic-vs-natural-latex-rug-tufting-glue
+) as the most sustainable option.
 
 We also identified other adhesives for this purpose which are defined as sustainable but we couldn’t access the full list of ingredients for copyright reasons and so we decided to use natural latex as adhesive for our samples and prototypes.
 
