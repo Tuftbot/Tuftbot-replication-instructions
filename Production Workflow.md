@@ -22,3 +22,7 @@
 
 10 - The robot begins tufting the brown lines. Digital output (DO) pins are used to activate and deactivate the tufting gun, as well as to light up a green indicator showing that the robot is in operation. Once finished, the robot returns to its starting position..
 
+### Troubleshooting and commons errors
+
+The script correctly reads the image when it is in JPEG format. Complex images can be difficult for the Vectorize plugin to process.
+
