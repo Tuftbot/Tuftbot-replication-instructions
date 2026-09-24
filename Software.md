@@ -18,6 +18,13 @@ Robots (ABB IRB1200)
 
 [Multiframe ABB Simulation](Files/Software-Files/04_Multiframe_ABB_Simulation)
 
+### Grasshopper code for single frame 
+
+Image processing (JPEG format for correct script operation) using the Vectorize plugin, distinguishing between two zones: the one corresponding to the color white and the one corresponding to the color brown.
+
+
+
+
 
 
 
