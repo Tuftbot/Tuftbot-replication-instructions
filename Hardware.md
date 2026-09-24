@@ -67,4 +67,7 @@ Most common adhesive used for backing the tufted pieces are PVC based. We search
 
 We also identified other adhesives for this purpose which are defined as sustainable but we couldn’t access the full list of ingredients for copyright reasons and so we decided to use natural latex as adhesive for our samples and prototypes.
 
+### Bobin set up for single frame and multiframe
+
+The prototypes realised, both at Lowpoly and SUPSI Fablab, have been testing only the single frame set up. In this scenario the best identified option has been placing the bobbins on the floor on the left side of the frame, the yarn from there goes through a hook screwed on the top left corner of the frame, before entering the gun. This is a quite standard set up used in manual tufting. While the robot movement for a multiframe set up has been tested digitally via printing simulations, the positioning of the bobbin and the path of the yarns can’t be tested because there are no options for yarn movement digital simulation.
 
