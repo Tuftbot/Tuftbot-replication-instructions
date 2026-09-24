@@ -35,3 +35,36 @@ Here you can see an image of the end effector printed and mounted on the KUKA at
 
 <img src="img/EndEffectorSUPSI.jpg" width="600">
 
+### Tufting gun specifics
+
+Currently this standard hand tufting gun has been tested: 
+45mm Electroacupuncture Long Velvet Tufting Gun Cutting Loop Velvet Carpet Weaving Machine 4-25 Needle Steps Shuttle Loom Tool and the end effector has been designed accordingly.
+
+At this  [link](https://it.aliexpress.com/item/1005010391053075.html?spm=a2g0o.order_list.order_list_main.16.6a7d194dq0kd71&gatewayAdapt=esp2ita) you can find the gun we worked with. 
+
+ ### Sensors
+
+We chose to test industrial sensors already used in textile machinery. There are two kinds of sensors, one to see if the yarn is present and one to detect if it’s moving. They are both fundamental to try to automatize the tufting process.
+
+The robotic arm can turn the tufting gun on/off and read sensors that check if the yarn is running. Two sensors are used: a hall-effect sensor that detects rotation while yarn moves, and a vibration sensor that detects yarn motion; if either fails, the arm and gun stop so the operator can replace the yarn, then restart. However, the system can’t confirm that each stitch was actually inserted into the canvas, the gun’s own vibrations can trick the vibration sensor, and the hall-effect sensor can lose the yarn, making the whole stop–replace–restart flow unreliable.
+
+The following sensors have been tested: [DC12-24V NPN PNP induction sensor Switch](https://it.aliexpress.com/item/1005002883343587.html?spm=a2g0o.order_list.order_list_main.59.1a50194d9428fY&gatewayAdapt=esp2ita) and [Twisting Yarn Sensor Wire Device ](https://it.aliexpress.com/item/4000093115538.html?spm=a2g0o.order_list.order_list_main.60.1a50194d9428fY&gatewayAdapt=esp2ita)
+
+### Sustainable canvas options
+
+Typically canvas used for tufting are done with synthetic fibers (polyester), we have been looking into sustainable biobased alternatives available on the market and cotton and jute are the main alternatives. Here some links to shops 
+[100% cotton](https://tuftingshop.com/it/collections/tufting-cloth/tuftingcloth
+)
+
+[100% Jute](https://tuftbox.co.uk/collections/tufting-fabric/products/hessian-rug-fabric-premium-woven-jute-for-handmade-rugs)
+
+We also tested a cloth made of wool acquired second hand to produce a monomeric sample. Because of the characteristic of the material we were able to test wet felting technique as an alternative backing system to the use of glue. 
+
+### Sustainable adhesive options
+
+Most common adhesive used for backing the tufted pieces are PVC based. We searched for sustainable biobased alternatives available on the market and we identified natural latex as the most sustainable option.
+https://tuftbox.co.uk/blogs/guides/synthetic-vs-natural-latex-rug-tufting-glue
+
+We also identified other adhesives for this purpose which are defined as sustainable but we couldn’t access the full list of ingredients for copyright reasons and so we decided to use natural latex as adhesive for our samples and prototypes.
+
+
