@@ -27,6 +27,10 @@ Given a certain arm extension the printing area can be calculated as follow:
 
 The end effector is 3d printed. It is composed of two parts, one that gets attached to the robot and needs to be custom made for each robot, and one that is made for standard tufting guns. This second part has holes with a margin in order to adapt to the subtle differences of each gun. 
 
-<img src="img/012.jpg" width="400">
+<img src="img/014.jpg" width="400"> <img src="img/015.jpg" width="400">
 
 To see 3d files go to this ![folder](Files/Hardware-Files/cover)
+
+Here you can see an image of the end effector printed and mounted on the KUKA at SUPSI.
+<img src="img/014.jpg" width="400">
+
