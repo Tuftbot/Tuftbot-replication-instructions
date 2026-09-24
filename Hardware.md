@@ -32,5 +32,5 @@ The end effector is 3d printed. It is composed of two parts, one that gets attac
 To see 3d files go to this ![folder](Files/Hardware-Files/cover)
 
 Here you can see an image of the end effector printed and mounted on the KUKA at SUPSI.
-<img src="img/014.jpg" width="400">
+<img src="PHOTO-2026-05-13-15-02-26.jpg" width="400">
 
