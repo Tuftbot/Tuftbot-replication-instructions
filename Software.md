@@ -10,13 +10,13 @@ Treesloth (package manager Rhino)
 
 Robots (ABB IRB1200)
 
-[Image processing](Files/Software-Files)
+[Image processing](Files/Software-Files/01_Image_processing)
 
-[Robot Tufting KUKA](Files/Software-Files/02_Robot Tufting_KUKA)
+[Robot Tufting KUKA](Files/Software-Files/02_Robot_Tufting_KUKA)
 
-[Robot Tufting ABB](Files/Software-Files/03_Robot Tufting_ABB)
+[Robot Tufting ABB](Files/Software-Files/03_Robot_Tufting_ABB)
 
-[Multiframe ABB Simulation](Files/Software-Files/04_Multiframe ABB_Simulation)
+[Multiframe ABB Simulation](Files/Software-Files/04_Multiframe_ABB_Simulation)
 
 
 
