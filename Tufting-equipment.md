@@ -1,5 +1,12 @@
 ## Tufting equipment
 
+### Tufting gun specifics
+
+Currently this standard hand tufting gun has been tested: 
+45mm Electroacupuncture Long Velvet Tufting Gun Cutting Loop Velvet Carpet Weaving Machine 4-25 Needle Steps Shuttle Loom Tool and the end effector has been designed accordingly.
+
+At this  [link](https://it.aliexpress.com/item/1005010391053075.html?spm=a2g0o.order_list.order_list_main.16.6a7d194dq0kd71&gatewayAdapt=esp2ita) you can find the gun we worked with. 
+
 ### Sustainable canvas options
 
 Typically canvas used for tufting are done with synthetic fibers (polyester), we have been looking into sustainable biobased alternatives available on the market and cotton and jute are the main alternatives. Here some links to shops 
