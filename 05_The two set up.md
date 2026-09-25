@@ -27,11 +27,11 @@ Mendrisio (KUKA KR6/16/20-3):
 
 <img src="img/003.jpg" width="400">
 
-<img src="img/003.jpg" width="400">
+<img src="START_END POSITION KUKA.png" width="400">
 
 Madrid (ABB IRB1200):
 
-<img src="img/003.jpg" width="400">
+<img src="img/ABB_POSITION.jpg" width="400">
 
 An end effector with the tufting gun is attached to the flange of both robot models, with the TCP configured as follows:
 
@@ -41,7 +41,7 @@ Mendrisio (KUKA KR6/16/20-3):
 
 Madrid (ABB IRB1200):
 
-<img src="img/003.jpg" width="400">
+<img src="img/ABB_TOOL.jpg" width="400">
 
 ## Single frame and multi frame options - What to bare in mind
 
