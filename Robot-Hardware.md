@@ -35,12 +35,6 @@ Here you can see an image of the end effector printed and mounted on the KUKA at
 
 <img src="img/EndEffectorSUPSI.jpg" width="600">
 
-### Tufting gun specifics
-
-Currently this standard hand tufting gun has been tested: 
-45mm Electroacupuncture Long Velvet Tufting Gun Cutting Loop Velvet Carpet Weaving Machine 4-25 Needle Steps Shuttle Loom Tool and the end effector has been designed accordingly.
-
-At this  [link](https://it.aliexpress.com/item/1005010391053075.html?spm=a2g0o.order_list.order_list_main.16.6a7d194dq0kd71&gatewayAdapt=esp2ita) you can find the gun we worked with. 
 
  ### Sensors
 
