@@ -2,21 +2,25 @@
 
 ### Links and plug in
 
-KUKA|prc (KUKA KR6/16/20-3)
+[KUKA|prc (KUKA KR6/16/20-3)](https://www.food4rhino.com/en/app/kukaprc-parametric-robot-control-grasshopper)
 
 Vectorize (package manager Rhino and plugin for grasshopper)
 
-Treesloth (package manager Rhino)
+[Treesloth (package manager Rhino)](https://www.food4rhino.com/en/app/treesloth)
 
-Robots (ABB IRB1200)
+Robots (ABB IRB1200)(package manager Rhino)
 
 [Image processing](Files/Software-Files/01_Image_processing)
+File grasshopper che serve per convertire l’immagine in toolpath.
 
 [Robot Tufting KUKA](Files/Software-Files/02_Robot_Tufting_KUKA)
+Versione grasshopper per generare il codice da mandare al robot KUKA
 
 [Robot Tufting ABB](Files/Software-Files/03_Robot_Tufting_ABB)
+Versione grasshopper per generare il codice da mandare al robot ABB
 
 [Multiframe ABB Simulation](Files/Software-Files/04_Multiframe_ABB_Simulation)
+Definizione di simulazione per le operazioni in multiframe 
 
 ### Grasshopper code for single frame 
 
