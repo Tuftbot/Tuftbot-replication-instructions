@@ -37,7 +37,7 @@ An end effector with the tufting gun is attached to the flange of both robot mod
 
 Mendrisio (KUKA KR6/16/20-3):
 
-<img src="img/003.jpg" width="400">
+<img src="img/005.jpg" width="400">
 
 Madrid (ABB IRB1200):
 
