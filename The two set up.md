@@ -1,11 +1,12 @@
 ### The two set up
 
 Set up at Lowpoly in Madrid
-<img src="img/Tuftgun.jpg" width="400">
+
+<img src="img/SetUpLowpoly.jpeg" width="400">
 
 Set up at SUPSI Fablab in Mendrisio
 
-<img src="img/Tuftgun.jpg" width="400">
+<img src="img/SetUpSUPSI.JPG" width="400">
 
 Both prototypes are based on the same image (JPEG format, to ensure the script works correctly).
 
