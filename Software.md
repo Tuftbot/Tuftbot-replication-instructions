@@ -66,6 +66,28 @@ All planes and commands to be executed by the robot are connected to the KUKA|pr
 
 <img src="img/028.jpg" width="600">
 
+### Grasshopper code for multi frame
+
+The workflow for the multi-frame system follows the same steps previously described for image processing.
+The robot executes the white thread lines for both frames, pauses to switch threads, and finally executes all the parallel brown lines for both frames.
+This scenario has been simulated using the ABB IRB1200 robot.
+
+<img src="img/029.jpg" width="600">
+
+The geometry of both frames connects to the "Create program" component of the Robots plugin, allowing us to simulate the toolpath and verify the positioning of both canvases, checking for collisions, singularities, and the like, so that any issues can be corrected.
+
+<img src="img/030.jpg" width="600">
+
+### Description on how to make the set up and use it to tuft
+
+Position the frame according to the base coordinates specified in KUKA|prc CORE.
+When the toolpath .src file is executed for the first time, the initial position assumed by the robot serves as the final calibration.
+
+<img src="img/031.jpg" width="600">
+
+
+
+
 
 
 
