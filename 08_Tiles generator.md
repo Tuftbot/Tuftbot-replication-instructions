@@ -11,3 +11,5 @@ The geometry engine is pure JavaScript (ES2020). It computes a flat-top hexagona
 The drawing surface is an SVG (Scalable Vector Graphics) element built dynamically by the JavaScript, which constructs and inserts SVG path elements directly into the DOM on every state change. There is no canvas rasterisation and no pixel data, the entire graphic is resolution-independent vector geometry.
 
 The interactivity, using sliders, dropdowns, single-click rotation, double-click class cycling, and the reshuffle function, is handled through native browser DOM events with no external libraries. The download buttons generate SVG files client-side by encoding the geometry as a data: URI and triggering a programmatic anchor click.
+
+[Here](Files/hexweave_tuftbot_final.html) you can fine the Html file for the Tile generator which you can download and run on your browser.
