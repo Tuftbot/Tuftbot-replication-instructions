@@ -11,16 +11,16 @@ Vectorize (package manager Rhino and plugin for grasshopper)
 Robots (ABB IRB1200)(package manager Rhino)
 
 [Image processing](Files/Software-Files/01_Image_processing)
-File grasshopper che serve per convertire l’immagine in toolpath.
+A Grasshopper file used to convert the image into a toolpath.
 
 [Robot Tufting KUKA](Files/Software-Files/02_Robot_Tufting_KUKA)
-Versione grasshopper per generare il codice da mandare al robot KUKA
+Grasshopper version for generating the code to be sent to the KUKA robot.
 
 [Robot Tufting ABB](Files/Software-Files/03_Robot_Tufting_ABB)
-Versione grasshopper per generare il codice da mandare al robot ABB
+Grasshopper version for generating the code to be sent to the ABB robot.
 
 [Multiframe ABB Simulation](Files/Software-Files/04_Multiframe_ABB_Simulation)
-Definizione di simulazione per le operazioni in multiframe 
+Definition of Simulation for Multiframe Operations.
 
 ### Grasshopper code for single frame 
 
