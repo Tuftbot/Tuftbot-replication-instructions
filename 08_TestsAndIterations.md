@@ -7,7 +7,7 @@ Hand tufted test of the first batch of yarns produced.
 With these samples we were trying to understand optimal tuftig speed and distance between the lines.
 These information were used in setting the robo-tuft.
 
-<img src="img/HandTuft01.png" width="300"> <img src="img/HandTuft02.png" width="300"> <img src="img/HandTuft03.png" width="300">
+<img src="img/HandTuft01.jpg" width="300"> <img src="img/HandTuft02.jpg" width="300"> <img src="img/HandTuft03.jpg" width="300">
 
 After the production of plain samples to do basic set up of the Tuftbot we moved toward tufring more complex geometries with two colours.
 We used a drawing developed by Eva Failla di [Studio Converter](https://studioconverter.com/) in both set up, Madrid and Mendrisio.
