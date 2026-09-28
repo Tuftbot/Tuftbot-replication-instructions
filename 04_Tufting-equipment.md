@@ -20,6 +20,14 @@ Typically canvas used for tufting are done with synthetic fibers (polyester), we
 
 We also tested a cloth made of wool acquired second hand to produce a monomeric sample. Because of the characteristic of the material we were able to test wet felting technique as an alternative backing system to the use of glue. 
 
+Here you can see samples of tufting with coarse wool on a wool canvas.
+
+<img src="img/TuftOnWoolCanvas.jpg" width="600">
+
+<img src="img/TuftOnWoolCanvas01.jpg" width="600">
+
+
+
 ### Sustainable adhesive options
 
 Most common adhesive used for backing the tufted pieces are PVC based. We searched for sustainable biobased alternatives available on the market and we identified [natural latex](https://tuftbox.co.uk/blogs/guides/synthetic-vs-natural-latex-rug-tufting-glue
