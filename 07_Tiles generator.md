@@ -12,4 +12,4 @@ The drawing surface is an SVG (Scalable Vector Graphics) element built dynamical
 
 The interactivity, using sliders, dropdowns, single-click rotation, double-click class cycling, and the reshuffle function, is handled through native browser DOM events with no external libraries. The download buttons generate SVG files client-side by encoding the geometry as a data: URI and triggering a programmatic anchor click.
 
-[Here](Files/hexweave_tuftbot_final.html) you can fine the Html file for the Tile generator which you can download and run on your browser.
+[Here](Files/hexweave_tuftbot_final.html) you can fine the Html file for the Tile generator which you can download and run on your browser and [Here](https://htmlpreview.github.io/?https://github.com/Tuftbot/Tuftbot-replication-instructions/blob/main/Files/hexweave_tuftbot_final.html) a visualization to test it.
