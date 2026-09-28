@@ -9,6 +9,7 @@ Set up at Lowpoly in Madrid (left), Set up at SUPSI Fablab in Mendrisio (right).
 
 
 Both prototypes are based on the same image (JPEG format, to ensure the script works correctly).
+The drawing was done by Eva Failla di [Studio Converter](https://studioconverter.com/).
 
 <img src="img/001.jpg" width="400"> 
 
