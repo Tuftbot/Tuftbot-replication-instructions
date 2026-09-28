@@ -44,3 +44,13 @@ The robotic arm can turn the tufting gun on/off and read sensors that check if t
 
 The following sensors have been tested: [DC12-24V NPN PNP induction sensor Switch](https://it.aliexpress.com/item/1005002883343587.html?spm=a2g0o.order_list.order_list_main.59.1a50194d9428fY&gatewayAdapt=esp2ita) and [Twisting Yarn Sensor Wire Device ](https://it.aliexpress.com/item/4000093115538.html?spm=a2g0o.order_list.order_list_main.60.1a50194d9428fY&gatewayAdapt=esp2ita)
 
+Vibration sensor with yarn
+
+<img src="img/vibration_sensor-with_yarn.JPG" width="600">
+
+Hall effect sensor with yarn
+
+<img src="img/hall-effect_sensor-with_yarn.JPG" width="600">
+
+
+
