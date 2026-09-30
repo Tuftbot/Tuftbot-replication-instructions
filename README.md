@@ -12,5 +12,10 @@ In the following documentation you will find, in parallel, information on the tw
 In [01_Robot-Hardware.md](01_Robot-Hardware.md) you can find all the information on the hardware needed to replicate the Tuftbot.
 In some cases you will find the links to the online shops where we acquired the components, for the custom made pieces you will find the 3D models that you will be able to further customise to your needs and 3D print.
 
-In [01_Robot-Software.md](01_Robot-Software.md) you can find the links to the software we developed, links to the plug in we used and a explanation, piece by piece, of the grasshopper file we developed.
+In [02_Robot-Software.md](02_Robot-Software.md) you can find the links to the software we developed, links to the plug in we used and a explanation, piece by piece, of the grasshopper file we developed.
+
+In [03_Tufting-equipment.md](03_Tufting-equipment.md) you can find a description of the tufting tools we opted for. One of the goal was to experiment with biobased and biodegradable materials. Like in other repositories you will find the link to the shops where we sourced our materials.
+
+In [03_Tufting-equipment.md](03_Tufting-equipment.md)
+
 
