@@ -1,4 +1,4 @@
-### The two set up
+### Comparing two set up
 
 Set up at Lowpoly in Madrid (left), Set up at SUPSI Fablab in Mendrisio (right).
 
