@@ -22,6 +22,17 @@ Grasshopper version for generating the code to be sent to the ABB robot.
 [Multiframe ABB Simulation](Files/Software-Files/04_Multiframe_ABB_Simulation)
 Definition of Simulation for Multiframe Operations.
 
+### Plugin install for KUKA
+All the needed plugins can be automatically downloaded at the first opening of the Grasshopper file, one plugin will be missing called Treesloth, Treesloth1 or similar.
+
+The plugin Treesloth needs to be downloaded by the provided link and the resulting GHA file should be manually moved into the componenets folder of Grasshopper.
+You can open the folder by opening grasshopper then File > Special Folders > Component Folder
+After moving the GHA file manually you can restart Rhino and the plugin will be installed
+
+### General file usage
+The file for ABB is using Robots as a plugin, this plugin can be used with most of the robotic arms. The KUKA version is using KUKA PRC that is specifically designed for KUKA robotic arms.
+All the files are exported for Rhino8, in case you have a previous generation of rhinoceros you can use the plugin https://www.food4rhino.com/en/app/convert3dm to convert files
+
 ### Grasshopper code for single frame 
 
 Image processing (JPEG format for correct script operation) using the Vectorize plugin, distinguishing between two zones: the one corresponding to the color white and the one corresponding to the color brown.
